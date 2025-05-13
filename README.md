@@ -1,6 +1,3 @@
-Here's a potential README for your project that includes the Tinkercad simulation circuit link:
-
----
 
 # Fastest Finger Fast Circuit with Monopulse Buzzer
 
